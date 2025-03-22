@@ -1,0 +1,120 @@
+**"Create a futuristic, sleek, and cinematic UI/UX for a streaming web application called NeoXStream. The interface should have a premium dark theme with a black and metallic violet color palette. All layouts must feature curved edges, floating elevated animations on hover, and a seamless user experience with smooth transitions. The design should be interactive, visually engaging, and optimized for smooth performance.
+
+🎨 UI/UX Design Requirements
+🖥️ Overall Layout & Theme
+Dark, neon-lit futuristic design with smooth glassmorphic effects.
+
+No visible scrollbars (smooth infinite scrolling effect).
+
+Curved edges for all UI elements for a modern aesthetic.
+
+Floating elevated animation on hover to add depth and interactivity.
+
+📍 Left Sidebar (Fixed Navigation) - Below the NeoXStream Logo
+NeoXStream Logo at the top (bold, modern typography).
+
+Vertical layout with glowing icons:
+
+Home
+
+Movies
+
+TV Shows
+
+My List
+
+Trending
+
+Live TV
+
+Categories
+
+Settings
+
+Profile
+
+Hovering over icons should create a soft glow effect with floating animation.
+
+📌 Top Center Navigation Bar
+A centered navigation menu with smooth transitions:
+
+Home
+
+Movies
+
+TV Shows
+
+My List
+
+Clicking a button should seamlessly transition to the selected page within the same layout (no full-page reloads).
+
+🔍 Top Right Corner
+Search Bar: Smart auto-suggestions & advanced filters.
+
+Notification Bell Icon: Dropdown for alerts.
+
+User Profile Icon: Dropdown for settings & logout.
+
+📺 Main Content Area (Home Page & Dashboard)
+Hero Section:
+
+A large featured movie/show banner with a play button and trailer preview.
+
+A cinematic blurred gradient background for depth.
+
+Grid-based movie thumbnails categorized as:
+
+Trending
+
+New Releases
+
+Continue Watching
+
+Recommended for You
+
+Hover effects (Play, More Info, Add to Watchlist).
+
+🎬 Video Player Page
+Full-screen custom video player with:
+
+Playback controls (Play, Pause, Volume, Speed, Quality).
+
+Skip Intro, Next Episode, Auto-Play Toggle.
+
+Mini-Player Mode & Picture-in-Picture Support.
+
+📄 Movie/Show Details Page
+Poster, Title, Release Year, Genre, IMDb Rating, Duration.
+
+Watch Trailer, Add to Favorites, User Reviews, Similar Content Recommendations.
+
+💳 Subscription & Payment Page
+Subscription Plans (Basic, Standard, Premium) with pricing details.
+
+Payment gateway integration (Stripe, PayPal).
+
+⚙️ Settings Page
+Dark Mode Toggle, Playback Settings, Privacy & Security Controls.
+
+🌟 UI/UX Guidelines
+✅ Premium dark mode UI with black & metallic violet theme.
+✅ No scrollbars (smooth infinite scrolling).
+✅ Floating elevated animations on hover for all elements.
+✅ Curved edges for a modern and sleek aesthetic.
+✅ Seamless page transitions within the same layout (no full-page reloads).
+
+🛠 Tech Stack Considerations (for Developers)
+Frontend: React.js / Next.js with Tailwind CSS.
+
+Video Streaming: HLS/DASH with FFmpeg for encoding.
+
+Storage & CDN: AWS S3 / Cloudflare R2 for video hosting.
+
+🚀 Expected UI Features from Replit AI
+Curved-edge layouts with a futuristic, cinematic feel.
+
+Hover animations that create a floating effect.
+
+Neon-lit, high-tech aesthetic with smooth transitions.
+
+Interactive, engaging UI without visible scrollbars.
